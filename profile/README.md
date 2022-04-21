@@ -1,12 +1,13 @@
-## Hi there 👋
+## PetCharm
 
-<!--
+🙋‍♀️ 一站式宠物平台
 
-**Here are some ideas to get you started:**
+🌈 初期开发阶段
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 相关仓库处于private状态：后端：petcharm_server web端：petcharm_web 移动端：petcharm_mobile 文档：petcharm_doc
+
+🍿 开发成员：wyx,zzk,cms,zzh,wrx,yjw
+
+🧙 awesome project
+
+![](https://pic.mcatk.com/soto/202204212339398.png)
